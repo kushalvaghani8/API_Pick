@@ -17,11 +17,11 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vrR-aW-QAy">
-                                <rect key="frame" x="165" y="432.5" width="84" height="31"/>
+                                <rect key="frame" x="172.5" y="432.5" width="69" height="31"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="filled" title="Pokemon"/>
+                                <buttonConfiguration key="configuration" style="filled" title="Imgflip"/>
                                 <connections>
-                                    <action selector="showPokemonData:" destination="BYZ-38-t0r" eventType="touchUpInside" id="HV0-Wa-F0i"/>
+                                    <action selector="showImgflipData:" destination="BYZ-38-t0r" eventType="touchUpInside" id="rUC-ci-KQF"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="SsM-g0-ojr">

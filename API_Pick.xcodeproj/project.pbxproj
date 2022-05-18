@@ -13,7 +13,7 @@
 		DBEE1E682829D214007A36A4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DBEE1E662829D214007A36A4 /* Main.storyboard */; };
 		DBEE1E6A2829D215007A36A4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DBEE1E692829D215007A36A4 /* Assets.xcassets */; };
 		DBEE1E6D2829D215007A36A4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DBEE1E6B2829D215007A36A4 /* LaunchScreen.storyboard */; };
-		DBEE1E752829D2C2007A36A4 /* PokeAPI_Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBEE1E742829D2C2007A36A4 /* PokeAPI_Helper.swift */; };
+		DBEE1E752829D2C2007A36A4 /* ImgflipAPI_Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBEE1E742829D2C2007A36A4 /* ImgflipAPI_Helper.swift */; };
 		F07A8CD328346D0B008E0A55 /* Gutendex_Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = F07A8CD228346D0B008E0A55 /* Gutendex_Helper.swift */; };
 		F0F160362833065E00F4F4E1 /* BreakinBad_Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0F160352833065E00F4F4E1 /* BreakinBad_Helper.swift */; };
 /* End PBXBuildFile section */
@@ -27,7 +27,7 @@
 		DBEE1E692829D215007A36A4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DBEE1E6C2829D215007A36A4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DBEE1E6E2829D215007A36A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		DBEE1E742829D2C2007A36A4 /* PokeAPI_Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokeAPI_Helper.swift; sourceTree = "<group>"; };
+		DBEE1E742829D2C2007A36A4 /* ImgflipAPI_Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImgflipAPI_Helper.swift; sourceTree = "<group>"; };
 		F07A8CD228346D0B008E0A55 /* Gutendex_Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gutendex_Helper.swift; sourceTree = "<group>"; };
 		F0F160352833065E00F4F4E1 /* BreakinBad_Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreakinBad_Helper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -67,7 +67,7 @@
 				DBEE1E642829D214007A36A4 /* ViewController.swift */,
 				F0F160352833065E00F4F4E1 /* BreakinBad_Helper.swift */,
 				F07A8CD228346D0B008E0A55 /* Gutendex_Helper.swift */,
-				DBEE1E742829D2C2007A36A4 /* PokeAPI_Helper.swift */,
+				DBEE1E742829D2C2007A36A4 /* ImgflipAPI_Helper.swift */,
 				DBEE1E662829D214007A36A4 /* Main.storyboard */,
 				DBEE1E692829D215007A36A4 /* Assets.xcassets */,
 				DBEE1E6B2829D215007A36A4 /* LaunchScreen.storyboard */,
@@ -151,7 +151,7 @@
 				DBEE1E652829D214007A36A4 /* ViewController.swift in Sources */,
 				DBEE1E612829D214007A36A4 /* AppDelegate.swift in Sources */,
 				DBEE1E632829D214007A36A4 /* SceneDelegate.swift in Sources */,
-				DBEE1E752829D2C2007A36A4 /* PokeAPI_Helper.swift in Sources */,
+				DBEE1E752829D2C2007A36A4 /* ImgflipAPI_Helper.swift in Sources */,
 				F07A8CD328346D0B008E0A55 /* Gutendex_Helper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -12,8 +12,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-    @IBAction func showPokemonData(_ sender: Any) {
-        PokeAPI_Helper.fetchData {
+    @IBAction func showImgflipData(_ sender: Any) {
+        ImgflipAPI_Helper.fetchData {
             printString in
            print(printString)
         }

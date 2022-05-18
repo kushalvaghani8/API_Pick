@@ -5,8 +5,8 @@
 
 import Foundation
 
-class PokeAPI_Helper{
-    private static var baseURL = URL(string: "https://pokeapi.co/api/v2/pokemon")
+class ImgflipAPI_Helper{
+    private static var baseURL = URL(string: "https://api.imgflip.com/get_memes")
     
     private static var session: URLSession = {
         var config = URLSessionConfiguration.default
